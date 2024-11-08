@@ -1,0 +1,10 @@
+Pregunta: $user_question
+
+Extractos de Documentos Recuperados:
+$context_string
+
+Instrucciones:
+1. Usa únicamente la información proporcionada en los extractos para responder a la pregunta del usuario.
+2. Si encuentras información contradictoria entre los extractos, intenta proporcionar una respuesta basada en el extracto más confiable o específico.
+3. No inventes ni generes información adicional fuera de lo que aparece en los extractos.
+4. Si la respuesta no puede ser determinada con la información proporcionada, indica que no hay suficiente información en los documentos recuperados.

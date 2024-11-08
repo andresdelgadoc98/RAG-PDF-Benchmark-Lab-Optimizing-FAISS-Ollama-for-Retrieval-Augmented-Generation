@@ -1,0 +1,11 @@
+questions,answers
+"¿Cuál es la función principal del sistema MARS en el laboratorio?", "El sistema MARS se utiliza para la digestión, disolución, hidrólisis, extracción o secado de materiales en el laboratorio, facilitando la preparación rápida de muestras para análisis."
+"¿Cuáles son las precauciones de seguridad al operar el MARS?", "Se deben tomar medidas de seguridad como conectar el MARS a tierra, evitar operar en lugares susceptibles a interferencias electromagnéticas y seguir todas las advertencias del manual."
+"¿Qué tipo de compuestos no son aptos para la digestión en vaso cerrado con microondas?", "Compuestos como explosivos, propulsores, productos químicos pirofóricos y mezclas hipergólicas no son aptos para digestión en vaso cerrado debido a sus reacciones peligrosas."
+"¿Cuáles son los métodos de la EPA incluidos en el MARS?", "El MARS incluye métodos de la EPA como el SW-3015, SW-3051, y SW-3052 para la digestión asistida por microondas de diversas muestras."
+"¿Cuál es el rango de potencia de microondas que ofrece el MARS?", "El sistema MARS permite seleccionar una potencia de salida entre 0 y 1200 watts, alcanzando hasta 1500 watts bajo ciertas condiciones de prueba."
+"¿Qué tipos de sensores están disponibles para controlar la presión y temperatura?", "El MARS cuenta con sensores como el ESP-1500 Plus para presión y el RTP-300 Plus para temperatura, además de opciones infrarrojas."
+"¿Qué condiciones deben considerarse para instalar correctamente el MARS?", "El MARS debe instalarse en un banco de laboratorio estable, con acceso a ventilación adecuada y una toma de corriente dedicada y estabilizada."
+"¿Cómo afecta la fluctuación de voltaje al rendimiento del MARS?", "Fluctuaciones de voltaje mayores al 10% pueden afectar el rendimiento del MARS, por lo que se recomienda un suministro de corriente constante y estabilizado."
+"¿Cuál es el propósito del sistema de ventilación del MARS?", "El sistema de ventilación del MARS expulsa vapores y humos corrosivos de la cavidad de microondas, protegiendo tanto al equipo como al entorno de trabajo."
+"¿Qué opciones de calibración ofrece el MARS para la presión y temperatura?", "El MARS permite calibraciones específicas para presión mediante el ESP-1500 Plus y para temperatura con el RTP-300 Plus, entre otros sensores opcionales."
